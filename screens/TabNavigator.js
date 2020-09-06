@@ -50,7 +50,7 @@ export default function AppTab({navigation}) {
       >
         <Tab.Screen name="Сексология" component={Sexology} />
         <Tab.Screen name="Позы" component={Poses} />
-        <Tab.Screen name="Зодиаки" component={Zodiac} />
+        {/* <Tab.Screen name="Зодиаки" component={Zodiac} /> */}
       </Tab.Navigator>
    
   );

@@ -6,7 +6,7 @@ export default function HomeText () {
         <ScrollView>
         <View>
           <Text style={{color:'#660666',fontWeight: 'bold',fontSize:55,paddingTop:6,paddingLeft:10 }}>
-         Хочешь знать все о сексе и быть самым умным в этой сфере?
+         Хочешь знать все о сексе и быть самым умным в этой сфере???
           </Text>
         </View
         ></ScrollView>

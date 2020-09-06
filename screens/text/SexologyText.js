@@ -18,7 +18,7 @@ export default function SexologyText () {
     text:{
         color:'#660666',
         fontWeight: 'bold',
-        fontSize:18,
+        fontSize:24,
         paddingTop:30,
         paddingLeft:10
     }
